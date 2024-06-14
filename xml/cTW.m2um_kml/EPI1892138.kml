@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+	<polygon id="EPI1892138_1" samplingProbability="0.142857142857143">
+		<coordinates>
+			23.635227,120.321313,0
+			23.635227,120.320313,0
+			23.635827,120.321313,0
+			23.635827,120.320313,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI1892138_2" samplingProbability="0.142857142857143">
+		<coordinates>
+			23.61368,120.20125,0
+			23.61368,120.20025,0
+			23.61428,120.20125,0
+			23.61428,120.20025,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI1892138_3" samplingProbability="0.142857142857143">
+		<coordinates>
+			23.74811,120.22118,0
+			23.74811,120.22018,0
+			23.74871,120.22118,0
+			23.74871,120.22018,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI1892138_4" samplingProbability="0.142857142857143">
+		<coordinates>
+			23.63533,120.17787,0
+			23.63533,120.17687,0
+			23.63593,120.17787,0
+			23.63593,120.17687,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI1892138_5" samplingProbability="0.142857142857143">
+		<coordinates>
+			23.723658,120.232567,0
+			23.723658,120.231567,0
+			23.724258,120.232567,0
+			23.724258,120.231567,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI1892138_6" samplingProbability="0.142857142857143">
+		<coordinates>
+			23.785104,120.277202,0
+			23.785104,120.276202,0
+			23.785704,120.277202,0
+			23.785704,120.276202,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI1892138_7" samplingProbability="0.142857142857143">
+		<coordinates>
+			23.79947,120.27329,0
+			23.79947,120.27229,0
+			23.80007,120.27329,0
+			23.80007,120.27229,0
+		</coordinates>
+	</polygon>
+</kml>

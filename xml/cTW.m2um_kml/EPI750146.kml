@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+	<polygon id="EPI750146_1" samplingProbability="0.111111111111111">
+		<coordinates>
+			22.893196,120.28983,0
+			22.893196,120.28883,0
+			22.893796,120.28983,0
+			22.893796,120.28883,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750146_2" samplingProbability="0.111111111111111">
+		<coordinates>
+			23.785104,120.277202,0
+			23.785104,120.276202,0
+			23.785704,120.277202,0
+			23.785704,120.276202,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750146_3" samplingProbability="0.111111111111111">
+		<coordinates>
+			23.22632,120.2224,0
+			23.22632,120.2214,0
+			23.22692,120.2224,0
+			23.22692,120.2214,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750146_4" samplingProbability="0.111111111111111">
+		<coordinates>
+			22.61123,120.50164,0
+			22.61123,120.50064,0
+			22.61183,120.50164,0
+			22.61183,120.50064,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750146_5" samplingProbability="0.111111111111111">
+		<coordinates>
+			22.59936667,120.50994444,0
+			22.59936667,120.50894444,0
+			22.59996667,120.50994444,0
+			22.59996667,120.50894444,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750146_6" samplingProbability="0.111111111111111">
+		<coordinates>
+			23.79947,120.27329,0
+			23.79947,120.27229,0
+			23.80007,120.27329,0
+			23.80007,120.27229,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750146_7" samplingProbability="0.111111111111111">
+		<coordinates>
+			23.97408889,120.38338889,0
+			23.97408889,120.38238889,0
+			23.97468889,120.38338889,0
+			23.97468889,120.38238889,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750146_8" samplingProbability="0.111111111111111">
+		<coordinates>
+			23.754232,120.232703,0
+			23.754232,120.231703,0
+			23.754832,120.232703,0
+			23.754832,120.231703,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750146_9" samplingProbability="0.111111111111111">
+		<coordinates>
+			22.53306111,120.48083333,0
+			22.53306111,120.47983333,0
+			22.53366111,120.48083333,0
+			22.53366111,120.47983333,0
+		</coordinates>
+	</polygon>
+</kml>

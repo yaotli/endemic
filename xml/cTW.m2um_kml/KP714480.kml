@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+	<polygon id="KP714480_1" samplingProbability="0.166666666666667">
+		<coordinates>
+			23.65045,120.21711,0
+			23.65045,120.21611,0
+			23.65105,120.21711,0
+			23.65105,120.21611,0
+		</coordinates>
+	</polygon>
+	<polygon id="KP714480_2" samplingProbability="0.166666666666667">
+		<coordinates>
+			23.728453,120.234074,0
+			23.728453,120.233074,0
+			23.729053,120.234074,0
+			23.729053,120.233074,0
+		</coordinates>
+	</polygon>
+	<polygon id="KP714480_3" samplingProbability="0.166666666666667">
+		<coordinates>
+			23.615425,120.2055,0
+			23.615425,120.2045,0
+			23.616025,120.2055,0
+			23.616025,120.2045,0
+		</coordinates>
+	</polygon>
+	<polygon id="KP714480_4" samplingProbability="0.166666666666667">
+		<coordinates>
+			23.618799,120.194812,0
+			23.618799,120.193812,0
+			23.619399,120.194812,0
+			23.619399,120.193812,0
+		</coordinates>
+	</polygon>
+	<polygon id="KP714480_5" samplingProbability="0.166666666666667">
+		<coordinates>
+			23.618848,120.195497,0
+			23.618848,120.194497,0
+			23.619448,120.195497,0
+			23.619448,120.194497,0
+		</coordinates>
+	</polygon>
+	<polygon id="KP714480_6" samplingProbability="0.166666666666667">
+		<coordinates>
+			23.63705,120.201912,0
+			23.63705,120.200912,0
+			23.63765,120.201912,0
+			23.63765,120.200912,0
+		</coordinates>
+	</polygon>
+</kml>

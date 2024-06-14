@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+	<polygon id="EPI750162_1" samplingProbability="0.0416666666666667">
+		<coordinates>
+			24.956505,121.19872,0
+			24.956505,121.19772,0
+			24.957105,121.19872,0
+			24.957105,121.19772,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_2" samplingProbability="0.0416666666666667">
+		<coordinates>
+			22.58408889,120.49783333,0
+			22.58408889,120.49683333,0
+			22.58468889,120.49783333,0
+			22.58468889,120.49683333,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_3" samplingProbability="0.0416666666666667">
+		<coordinates>
+			23.42716,120.218088,0
+			23.42716,120.217088,0
+			23.42776,120.218088,0
+			23.42776,120.217088,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_4" samplingProbability="0.0416666666666667">
+		<coordinates>
+			23.614618,120.205779,0
+			23.614618,120.204779,0
+			23.615218,120.205779,0
+			23.615218,120.204779,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_5" samplingProbability="0.0416666666666667">
+		<coordinates>
+			23.645529,120.21383,0
+			23.645529,120.21283,0
+			23.646129,120.21383,0
+			23.646129,120.21283,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_6" samplingProbability="0.0416666666666667">
+		<coordinates>
+			23.653214,120.219429,0
+			23.653214,120.218429,0
+			23.653814,120.219429,0
+			23.653814,120.218429,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_7" samplingProbability="0.0416666666666667">
+		<coordinates>
+			23.655553,120.208067,0
+			23.655553,120.207067,0
+			23.656153,120.208067,0
+			23.656153,120.207067,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_8" samplingProbability="0.0416666666666667">
+		<coordinates>
+			23.620747,120.194904,0
+			23.620747,120.193904,0
+			23.621347,120.194904,0
+			23.621347,120.193904,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_9" samplingProbability="0.0416666666666667">
+		<coordinates>
+			23.62103,120.1963,0
+			23.62103,120.1953,0
+			23.62163,120.1963,0
+			23.62163,120.1953,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_10" samplingProbability="0.0416666666666667">
+		<coordinates>
+			23.625943,120.183489,0
+			23.625943,120.182489,0
+			23.626543,120.183489,0
+			23.626543,120.182489,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_11" samplingProbability="0.0416666666666667">
+		<coordinates>
+			23.58708,120.20125,0
+			23.58708,120.20025,0
+			23.58768,120.20125,0
+			23.58768,120.20025,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_12" samplingProbability="0.0416666666666667">
+		<coordinates>
+			23.59553,120.18744,0
+			23.59553,120.18644,0
+			23.59613,120.18744,0
+			23.59613,120.18644,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_13" samplingProbability="0.0416666666666667">
+		<coordinates>
+			23.68635,120.2523,0
+			23.68635,120.2513,0
+			23.68695,120.2523,0
+			23.68695,120.2513,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_14" samplingProbability="0.0416666666666667">
+		<coordinates>
+			23.781988,120.261053,0
+			23.781988,120.260053,0
+			23.782588,120.261053,0
+			23.782588,120.260053,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_15" samplingProbability="0.0416666666666667">
+		<coordinates>
+			22.55753333,120.51655556,0
+			22.55753333,120.51555556,0
+			22.55813333,120.51655556,0
+			22.55813333,120.51555556,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_16" samplingProbability="0.0416666666666667">
+		<coordinates>
+			22.57026,120.52606,0
+			22.57026,120.52506,0
+			22.57086,120.52606,0
+			22.57086,120.52506,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_17" samplingProbability="0.0416666666666667">
+		<coordinates>
+			22.57497778,120.49638889,0
+			22.57497778,120.49538889,0
+			22.57557778,120.49638889,0
+			22.57557778,120.49538889,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_18" samplingProbability="0.0416666666666667">
+		<coordinates>
+			22.58558889,120.49097222,0
+			22.58558889,120.48997222,0
+			22.58618889,120.49097222,0
+			22.58618889,120.48997222,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_19" samplingProbability="0.0416666666666667">
+		<coordinates>
+			22.58864444,120.50925,0
+			22.58864444,120.50825,0
+			22.58924444,120.50925,0
+			22.58924444,120.50825,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_20" samplingProbability="0.0416666666666667">
+		<coordinates>
+			22.60564444,120.45569444,0
+			22.60564444,120.45469444,0
+			22.60624444,120.45569444,0
+			22.60624444,120.45469444,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_21" samplingProbability="0.0416666666666667">
+		<coordinates>
+			22.61025556,120.50411111,0
+			22.61025556,120.50311111,0
+			22.61085556,120.50411111,0
+			22.61085556,120.50311111,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_22" samplingProbability="0.0416666666666667">
+		<coordinates>
+			22.6177,120.50119444,0
+			22.6177,120.50019444,0
+			22.6183,120.50119444,0
+			22.6183,120.50019444,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_23" samplingProbability="0.0416666666666667">
+		<coordinates>
+			22.6177,120.50119444,0
+			22.6177,120.50019444,0
+			22.6183,120.50119444,0
+			22.6183,120.50019444,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI750162_24" samplingProbability="0.0416666666666667">
+		<coordinates>
+			25.055006,121.208717,0
+			25.055006,121.207717,0
+			25.055606,121.208717,0
+			25.055606,121.207717,0
+		</coordinates>
+	</polygon>
+</kml>

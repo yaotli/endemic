@@ -1,0 +1,5 @@
+mean	stderr_mean	stdev	variance	median	mode	geom_mean	hpd_interval_low	hpd_interval_high	act	ess	name	epoch	from	to	bf	mj_prop	from_i	to_i	type
+0.7177282271772827	0.009643891033249792	0.45012740255636124	0.2026146785321365	1	1	0	0	1	4.591140029538149	2178.3260662180373	Anseri.Galli	0	Anseri	Galli	2.542685086787111	0.13126499674836858	1	2	host.indicators.epoch0.Anseri.Galli
+1	0	0	0	1	1	1	1	1	NA	NA	Galli.Anseri	0	Galli	Anseri	Inf	0.8687350032516313	2	1	host.indicators.epoch0.Galli.Anseri
+1	0	0	0	1	1	1	1	1	NA	NA	Anseri.Galli	1	Anseri	Galli	Inf	0.8487199754803116	1	2	host.indicators.epoch1.Anseri.Galli
+0.9997000299970003	1.7316178446570655e-4	0.017317910064414146	2.999100089991368e-4	1	1	0	1	1	1	10001	Galli.Anseri	1	Galli	Anseri	3332.666666666113	0.15128002451968833	2	1	host.indicators.epoch1.Galli.Anseri

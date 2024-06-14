@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+	<polygon id="EPI1892722_1" samplingProbability="1">
+		<coordinates>
+			23.565734,120.20023,0
+			23.565734,120.19923,0
+			23.566334,120.20023,0
+			23.566334,120.19923,0
+		</coordinates>
+	</polygon>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+	<polygon id="EPI1892288_1" samplingProbability="0.25">
+		<coordinates>
+			23.45488,120.241532,0
+			23.45488,120.240532,0
+			23.45548,120.241532,0
+			23.45548,120.240532,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI1892288_2" samplingProbability="0.25">
+		<coordinates>
+			23.521027,120.370383,0
+			23.521027,120.369383,0
+			23.521627,120.370383,0
+			23.521627,120.369383,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI1892288_3" samplingProbability="0.25">
+		<coordinates>
+			23.36814,120.2675,0
+			23.36814,120.2665,0
+			23.36874,120.2675,0
+			23.36874,120.2665,0
+		</coordinates>
+	</polygon>
+	<polygon id="EPI1892288_4" samplingProbability="0.25">
+		<coordinates>
+			23.45179,120.2625,0
+			23.45179,120.2615,0
+			23.45239,120.2625,0
+			23.45239,120.2615,0
+		</coordinates>
+	</polygon>
+</kml>
