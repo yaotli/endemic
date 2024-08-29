@@ -28,7 +28,7 @@ script/`cluster.R`
 
 [xml/](https://github.com/yaotli/endemic/tree/main/xml)cTW.contin-rmjp-gtr-grid-sttre2-prob.xml
 
-[xml/cTW.m2um_kml](https://github.com/yaotli/endemic/tree/main/xml/cTW.m2um_kml)
+[xml/cTW.m2um_kml/](https://github.com/yaotli/endemic/tree/main/xml/cTW.m2um_kml)
 
 
 ### Figure 4.
@@ -70,6 +70,6 @@ script/`polygons-general.R`
 
 ### Table 
 
-Data/selection(https://github.com/yaotli/endemic/tree/main/data/selection)
+[Data/selection](https://github.com/yaotli/endemic/tree/main/data/selection)
 
 
